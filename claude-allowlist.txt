@@ -13,7 +13,6 @@ tidyverse.org
 *.tidyverse.org
 bioconductor.org
 api.r-hub.io
-adv-r.hadley.nz
 julialang.org
 *.julialang.org
 pypi.org
@@ -36,19 +35,16 @@ crossref.org
 *.crossref.org
 *.datacite.org
 api.openalex.org
-api.semanticscholar.org
 *.semanticscholar.org
 *.springer.com
 springeropen.com
 *.sciencedirect.com
 *.elsevier.com
-linkinghub.elsevier.com
 *.wiley.com
 *.tandfonline.com
 *.jstor.org
 projecteuclid.org
 *.projecteuclid.org
-dl.acm.org
 *.acm.org
 *.ieee.org
 *.oup.com
@@ -70,7 +66,6 @@ medrxiv.org
 *.ncbi.nlm.nih.gov
 osf.io
 *.osf.io
-archive.ics.uci.edu
 *.uci.edu
 *.kaggle.com
 huggingface.co
@@ -79,11 +74,8 @@ openml.org
 *.openml.org
 statlearning.com
 *.statlearning.com
-hastie.su.domains
 *.su.domains
-d-morrison.github.io
 epirhandbook.com
-style.tidyverse.org
 sembr.org
 gnu.org
 creativecommons.org
@@ -102,8 +94,6 @@ creativecommons.org
 *.utoronto.ca
 *.wwu.edu
 www.cdc.gov
-docs.google.com
-forms.gle
 shinyapps.io
 *.shinyapps.io
 youtube.com
@@ -168,3 +158,7 @@ jamanetwork.com
 journals.lww.com
 etymonline.com
 *.etymonline.com
+archive.ubuntu.com
+security.ubuntu.com
+people.smp.uq.edu.au
+mlr3book.mlr-org.com
