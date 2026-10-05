@@ -93,6 +93,11 @@ creativecommons.org
 *.cam.ac.uk
 *.utoronto.ca
 *.wwu.edu
+*.columbia.edu
+introtodeeplearning.com
+stat110.net
+probabilitybook.net
+cs109.org
 www.cdc.gov
 shinyapps.io
 *.shinyapps.io
@@ -162,3 +167,5 @@ archive.ubuntu.com
 security.ubuntu.com
 people.smp.uq.edu.au
 mlr3book.mlr-org.com
+*.frame.claudeusercontent.com
+*.frame.staging.claudeusercontent.com
