@@ -3,6 +3,8 @@ github.com
 github.io
 *.github.io
 *.githubusercontent.com
+githubstatus.com
+www.githubstatus.com
 r-project.org
 *.r-project.org
 posit.co
