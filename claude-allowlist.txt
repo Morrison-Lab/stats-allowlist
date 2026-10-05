@@ -78,6 +78,10 @@ statlearning.com
 *.statlearning.com
 *.su.domains
 epirhandbook.com
+introtodeeplearning.com
+stat110.net
+probabilitybook.net
+cs109.org
 sembr.org
 gnu.org
 creativecommons.org
@@ -95,6 +99,7 @@ creativecommons.org
 *.cam.ac.uk
 *.utoronto.ca
 *.wwu.edu
+*.columbia.edu
 www.cdc.gov
 shinyapps.io
 *.shinyapps.io
@@ -164,3 +169,5 @@ archive.ubuntu.com
 security.ubuntu.com
 people.smp.uq.edu.au
 mlr3book.mlr-org.com
+*.frame.claudeusercontent.com
+*.frame.staging.claudeusercontent.com
