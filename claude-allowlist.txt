@@ -171,3 +171,5 @@ people.smp.uq.edu.au
 mlr3book.mlr-org.com
 *.frame.claudeusercontent.com
 *.frame.staging.claudeusercontent.com
+andreashandel.com
+*.andreashandel.com
