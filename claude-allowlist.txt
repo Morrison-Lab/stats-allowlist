@@ -173,3 +173,5 @@ mlr3book.mlr-org.com
 *.frame.staging.claudeusercontent.com
 andreashandel.com
 *.andreashandel.com
+instructure.com
+*.instructure.com
