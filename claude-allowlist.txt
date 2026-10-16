@@ -31,6 +31,14 @@ wikipedia.org
 commons.wikimedia.org
 web.archive.org
 scholar.archive.org
+archive.org
+*.archive.org
+gutenberg.org
+*.gutenberg.org
+bartleby.com
+*.bartleby.com
+wikisource.org
+*.wikisource.org
 doi.org
 dx.doi.org
 crossref.org
