@@ -175,3 +175,5 @@ andreashandel.com
 *.andreashandel.com
 instructure.com
 *.instructure.com
+downforeveryoneorjustme.com
+*.downforeveryoneorjustme.com
