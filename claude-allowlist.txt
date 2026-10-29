@@ -100,6 +100,10 @@ creativecommons.org
 *.utoronto.ca
 *.wwu.edu
 *.columbia.edu
+*.uconn.edu
+*.utah.edu
+*.uc.edu
+*.tue.nl
 www.cdc.gov
 shinyapps.io
 *.shinyapps.io
@@ -112,6 +116,8 @@ w3.org
 *.w3.org
 plainlanguage.gov
 *.plainlanguage.gov
+digital.gov
+*.digital.gov
 gov.uk
 *.gov.uk
 developers.google.com
