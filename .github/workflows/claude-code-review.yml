@@ -22,7 +22,7 @@ jobs:
       issues: write
       id-token: write
       actions: read
-    uses: Morrison-Lab/gha/.github/workflows/claude-code-review.yml@v2
+    uses: Morrison-Lab/gha/.github/workflows/claude-code-review.yml@v3
     secrets: inherit
     with:
       pr-number: ${{ inputs.pr_number }}
