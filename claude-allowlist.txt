@@ -161,6 +161,7 @@ cdnjs.cloudflare.com
 stackoverflow.com
 stats.stackexchange.com
 stat.ethz.ch
+www2.stat.duke.edu
 online.stat.psu.edu
 *.ucsf.edu
 *.princeton.edu
