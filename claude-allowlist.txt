@@ -205,3 +205,9 @@ degruyterbrill.com
 *.degruyterbrill.com
 cengage.com
 *.cengage.com
+archive.org
+*.archive.org
+goodreads.com
+www.goodreads.com
+en.wikiquote.org
+openlibrary.org
