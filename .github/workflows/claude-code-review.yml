@@ -1,0 +1,35 @@
+# Thin caller for the central Morrison-Lab/gha reusable Claude code-review
+# workflow. Requires the CLAUDE_CODE_OAUTH_TOKEN secret (passed via
+# `secrets: inherit`). The workflow_dispatch path reviews a PR that was opened
+# before this workflow existed; keep this file named claude-code-review.yml.
+name: Claude Code Review
+
+on:
+  pull_request:
+    types: [opened, synchronize, ready_for_review, reopened]
+  workflow_dispatch:
+    inputs:
+      pr_number:
+        description: 'Pull request number to review'
+        required: true
+        type: string
+
+jobs:
+  review:
+    permissions:
+      contents: read
+      pull-requests: write
+      issues: write
+      id-token: write
+      actions: read
+    uses: Morrison-Lab/gha/.github/workflows/claude-code-review.yml@v3
+    secrets: inherit
+    with:
+      pr-number: ${{ inputs.pr_number }}
+      prompt-addendum: |
+        This repository holds two plain-text network allowlists for AI coding
+        agents: `allowlist.txt` (GitHub Copilot; each entry ends in a comma)
+        and `claude-allowlist.txt` (Claude Code; one host per line). Check that
+        each added host is spelled correctly, is needed by a lab repository,
+        has the format of its file, is not already listed, and is added to both
+        files when both agents need it.
