@@ -211,3 +211,5 @@ goodreads.com
 www.goodreads.com
 en.wikiquote.org
 openlibrary.org
+d2l.ai
+*.d2l.ai
